@@ -2,7 +2,7 @@ POST http://localhost:3000/api/v1/solicitud
 Content-Type: application/json
 
 {
-  "nombre": "Sara",
+  "nombre": "Angela",
   "cargo": "formador",
   "promocion": "p7",
   "email": "sara@gmail.com",
